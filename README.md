@@ -1,8 +1,8 @@
 # flutter_application_2
 
-A new Flutter project.
+A new Flutter project based on Chatting Application.
 
-## Getting Started
+Getting Started with UI
 
 This project is a starting point for a Flutter application.
 
