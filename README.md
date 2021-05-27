@@ -2,7 +2,7 @@
 
 A new Flutter project based on Chatting Application.
 
-Getting Started with UI
+Getting Started with Mobile application UI front end development.
 
 This project is a starting point for a Flutter application.
 
